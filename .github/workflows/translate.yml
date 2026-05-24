@@ -1,0 +1,35 @@
+name: Auto-Translate Joytic Quotes
+
+on:
+  push:
+    paths:
+      - 'quotes_source.json'
+
+jobs:
+  translate:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.10'
+
+    - name: Install Translator Library
+      run: pip install deep-translator
+
+    - name: Run Translation Script
+      run: python translate_quotes.py
+
+    - name: Commit and Push Master File
+      run: |
+        git config --global user.name "github-actions[bot]"
+        git config --global user.email "github-actions[bot]@users.noreply.github.com"
+        git add quotes_master.json
+        git commit -m "Auto-generated multi-language quotes" || echo "No changes to commit"
+        git push
