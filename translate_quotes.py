@@ -1,7 +1,13 @@
 import json
+import time
 from deep_translator import GoogleTranslator
 
-target_languages = ['hi', 'ru', 'de']
+# Expanded to cover the vast majority of global Android users
+target_languages = [
+    'hi', 'ru', 'de', 'es', 'fr', 'it', 'pt', 'zh-CN', 'ja', 'ko',
+    'ar', 'bn', 'ur', 'tr', 'vi', 'th', 'id', 'nl', 'pl', 'uk', 
+    'ta', 'te', 'mr', 'gu', 'kn', 'ml', 'pa', 'fa', 'sw', 'ms'
+]
 
 def main():
     with open('quotes_source.json', 'r', encoding='utf-8') as f:
@@ -23,14 +29,17 @@ def main():
                     translated_quotes.append(translated)
                 except Exception as e:
                     print(f"Translation failed for '{quote}' to {lang}: {e}")
+                    # If it fails, fallback to English so the app doesn't crash or show empty text
                     translated_quotes.append(quote)
             
             master_data[date][lang] = translated_quotes
+            # A tiny pause to ensure Google's free translation API doesn't block us
+            time.sleep(0.2)
 
     with open('quotes_master.json', 'w', encoding='utf-8') as f:
         json.dump(master_data, f, ensure_ascii=False, indent=2)
         
-    print("Translation complete! quotes_master.json generated.")
+    print("Translation complete! Global quotes_master.json generated.")
 
 if __name__ == "__main__":
     main()
