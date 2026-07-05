@@ -1,156 +1,262 @@
 {
-  "2026-05-24": {
-    "en": [
-      "Smile, breathe, and go slowly.",
-      "Every smile makes you a day younger.",
-      "Peace begins with a smile."
-    ],
+  "dynamic_texts": {
+    "en": {
+      "happy_title": "Thank You!",
+      "happy_message": "You’ve made Milo’s day brighter. Carry this joy with you, and let’s share another smile together tomorrow."
+    },
     "hi": [
-      "मुस्कुराएं, सांस लें और धीरे-धीरे आगे बढ़ें।",
-      "हर मुस्कान आपको एक दिन जवान बनाती है।",
-      "शांति की शुरूआत मुस्कान से होती है।"
+      "Happy_title",
+      "खुश_संदेश"
     ],
     "ru": [
-      "Улыбайтесь, дышите и идите медленно.",
-      "Каждая улыбка делает тебя на день моложе.",
-      "Мир начинается с улыбки."
+      "счастливый_титул",
+      "счастливое_сообщение"
     ],
     "de": [
-      "Lächle, atme und gehe langsam.",
-      "Jedes Lächeln macht Sie einen Tag jünger.",
-      "Frieden beginnt mit einem Lächeln."
+      "happy_title",
+      "happy_message"
+    ],
+    "es": [
+      "título_feliz",
+      "mensaje_feliz"
+    ],
+    "fr": [
+      "titre_heureux",
+      "message_heureux"
+    ],
+    "it": [
+      "felice_titolo",
+      "happy_message"
+    ],
+    "pt": [
+      "feliz_título",
+      "mensagem_feliz"
+    ],
+    "zh-CN": [
+      "快乐的标题",
+      "快乐消息"
+    ],
+    "ja": [
+      "happy_title",
+      "ハッピーメッセージ"
+    ],
+    "ko": [
+      "행복한_제목",
+      "happy_message"
+    ],
+    "ar": [
+      "Happy_title",
+      "Happy_message"
+    ],
+    "bn": [
+      "happy_title",
+      "খুশির_বার্তা"
+    ],
+    "ur": [
+      "happy_title",
+      "مبارک_پیغام"
+    ],
+    "tr": [
+      "mutlu_title",
+      "mutlu_message"
+    ],
+    "vi": [
+      "Happy_title",
+      "tin nhắn hạnh phúc"
+    ],
+    "th": [
+      "happy_title",
+      "happy_message"
+    ],
+    "id": [
+      "selamat_judul",
+      "pesan_bahagia"
+    ],
+    "nl": [
+      "gelukkige_titel",
+      "blij_bericht"
+    ],
+    "pl": [
+      "szczęśliwy_tytuł",
+      "szczęśliwa_wiadomość"
+    ],
+    "uk": [
+      "happy_title",
+      "щасливе_повідомлення"
+    ],
+    "ta": [
+      "மகிழ்ச்சி_தலைப்பு",
+      "மகிழ்ச்சி_செய்தி"
+    ],
+    "te": [
+      "హ్యాపీ_టైటిల్",
+      "సంతోషకరమైన_సందేశం"
+    ],
+    "mr": [
+      "happy_title",
+      "आनंदी_संदेश"
+    ],
+    "gu": [
+      "ખુશ_શીર્ષક",
+      "ખુશ_સંદેશ"
+    ],
+    "kn": [
+      "ಸಂತೋಷದ_ಶೀರ್ಷಿಕೆ",
+      "ಸಂತೋಷ_ಸಂದೇಶ"
+    ],
+    "ml": [
+      "സന്തോഷം_തലക്കെട്ട്",
+      "സന്തോഷം_സന്ദേശം"
+    ],
+    "pa": [
+      "happy_title",
+      "ਖੁਸ਼ੀ ਦਾ_ਸੰਦੇਸ਼"
+    ],
+    "fa": [
+      "شاد_عنوان",
+      "happy_message"
+    ],
+    "sw": [
+      "furaha_kichwa",
+      "furaha_ujumbe"
+    ],
+    "ms": [
+      "happy_title",
+      "mesej_gembira"
     ]
   },
-  "2026-05-25": {
-    "en": [
-      "Let your smile change the world.",
-      "Joy is not in things; it is in us.",
-      "Keep smiling, because life is a beautiful thing."
-    ],
+  "daily_quotes": {
+    "en": {
+      "2026-05-05": [
+        "Smile, breathe, and go slowly.",
+        "Every smile makes you a day younger.",
+        "Peace begins with a smile."
+      ],
+      "2026-05-06": [
+        "Let your smile change the world.",
+        "Joy is not in things; it is in us.",
+        "Keep smiling, because life is a beautiful thing."
+      ]
+    },
     "hi": [
-      "अपनी मुस्कान से दुनिया बदल दें।",
-      "ख़ुशी चीज़ों में नहीं है; यह हममें है.",
-      "मुस्कुराते रहिए, क्योंकि जिंदगी एक खूबसूरत चीज है।"
+      "2026-05-05",
+      "2026-05-06"
     ],
     "ru": [
-      "Пусть твоя улыбка изменит мир.",
-      "Радость не в вещах; это в нас.",
-      "Продолжайте улыбаться, потому что жизнь прекрасна."
+      "05.05.2026",
+      "2026-05-06"
     ],
     "de": [
-      "Lassen Sie Ihr Lächeln die Welt verändern.",
-      "Freude liegt nicht in den Dingen; es ist in uns.",
-      "Lächle weiter, denn das Leben ist eine schöne Sache."
-    ]
-  },
-  "2026-05-26": {
-    "en": [
-      "A simple smile is the beginning of opening your heart.",
-      "Breathe in peace, breathe out tension.",
-      "Your calm mind is the ultimate weapon against your challenges."
+      "05.05.2026",
+      "06.05.2026"
     ],
-    "hi": [
-      "एक साधारण मुस्कान आपके दिल को खोलने की शुरुआत है।",
-      "शांति की सांस लें, तनाव से मुक्ति पाएं।",
-      "आपका शांत मन आपकी चुनौतियों के विरुद्ध अंतिम हथियार है।"
+    "es": [
+      "2026-05-05",
+      "2026-05-06"
     ],
-    "ru": [
-      "Простая улыбка — это начало открытия вашего сердца.",
-      "Вдохните спокойствие, выдохните напряжение.",
-      "Ваш спокойный ум — лучшее оружие против ваших проблем."
+    "fr": [
+      "2026-05-05",
+      "2026-05-06"
     ],
-    "de": [
-      "Ein einfaches Lächeln ist der Anfang, dein Herz zu öffnen.",
-      "Atme Ruhe ein, atme Anspannung aus.",
-      "Ihr ruhiger Geist ist die ultimative Waffe gegen Ihre Herausforderungen."
-    ]
-  },
-  "2026-05-27": {
-    "en": [
-      "Quiet the mind, and the soul will speak.",
-      "Smile at the obstacle, for it is a bridge.",
-      "Within you, there is a stillness and a sanctuary to which you can retreat at any time."
+    "it": [
+      "2026-05-05",
+      "2026-05-06"
     ],
-    "hi": [
-      "मन को शांत करो, और आत्मा बोलेगी।",
-      "बाधा पर मुस्कुराएँ, क्योंकि यह एक पुल है।",
-      "आपके भीतर एक शांति और एक अभयारण्य है जिससे आप किसी भी समय पीछे हट सकते हैं।"
+    "pt": [
+      "05/05/2026",
+      "06/05/2026"
     ],
-    "ru": [
-      "Успокойте разум, и душа заговорит.",
-      "Улыбнитесь препятствию, ведь это мост.",
-      "Внутри вас есть тишина и святилище, куда вы можете уйти в любое время."
+    "zh-CN": [
+      "2026-05-05",
+      "2026-05-06"
     ],
-    "de": [
-      "Beruhige den Geist und die Seele wird sprechen.",
-      "Lächle über das Hindernis, denn es ist eine Brücke.",
-      "In dir herrscht eine Stille und ein Zufluchtsort, in den du dich jederzeit zurückziehen kannst."
-    ]
-  },
-  "2026-05-28": {
-    "en": [
-      "Focus your awareness on the present moment.",
-      "A smile is a curve that sets everything straight.",
-      "Let go of what you cannot change, and smile at what is."
+    "ja": [
+      "2026-05-05",
+      "2026-05-06"
     ],
-    "hi": [
-      "अपनी जागरूकता को वर्तमान क्षण पर केंद्रित करें।",
-      "मुस्कान एक वक्र है जो सब कुछ सीधा कर देती है।",
-      "जिसे आप बदल नहीं सकते उसे जाने दो और जो है उस पर मुस्कुराओ।"
+    "ko": [
+      "2026-05-05",
+      "2026-05-06"
     ],
-    "ru": [
-      "Сосредоточьте свое внимание на настоящем моменте.",
-      "Улыбка — это кривая, которая все выпрямляет.",
-      "Отпустите то, что вы не можете изменить, и улыбнитесь тому, что есть."
+    "ar": [
+      "2026-05-05",
+      "2026-05-06"
     ],
-    "de": [
-      "Konzentrieren Sie Ihr Bewusstsein auf den gegenwärtigen Moment.",
-      "Ein Lächeln ist eine Kurve, die alles in Ordnung bringt.",
-      "Lassen Sie los, was Sie nicht ändern können, und lächeln Sie über das, was ist."
-    ]
-  },
-  "2026-05-29": {
-    "en": [
-      "Find boundless joy in the ordinary.",
-      "Breath is the bridge which connects life to consciousness.",
-      "A gentle smile relaxes the mind and softens the heart."
+    "bn": [
+      "2026-05-05",
+      "2026-05-06"
     ],
-    "hi": [
-      "सामान्य में असीम आनंद खोजें।",
-      "श्वास वह पुल है जो जीवन को चेतना से जोड़ता है।",
-      "एक सौम्य मुस्कान मन को आराम देती है और दिल को नरम कर देती है।"
+    "ur": [
+      "2026-05-05",
+      "2026-05-06"
     ],
-    "ru": [
-      "Находите безграничную радость в обыденности.",
-      "Дыхание — это мост, соединяющий жизнь с сознанием.",
-      "Нежная улыбка расслабляет ум и смягчает сердце."
+    "tr": [
+      "2026-05-05",
+      "2026-05-06"
     ],
-    "de": [
-      "Finden Sie grenzenlose Freude im Gewöhnlichen.",
-      "Der Atem ist die Brücke, die das Leben mit dem Bewusstsein verbindet.",
-      "Ein sanftes Lächeln entspannt den Geist und macht das Herz weich."
-    ]
-  },
-  "2026-05-30": {
-    "en": [
-      "Radiate peace and positivity from within.",
-      "A warm smile is the universal language of kindness.",
-      "Rest in the quietness of your own heart."
+    "vi": [
+      "2026-05-05",
+      "2026-05-06"
     ],
-    "hi": [
-      "भीतर से शांति और सकारात्मकता का संचार करें।",
-      "एक गर्मजोशी भरी मुस्कान दयालुता की सार्वभौमिक भाषा है।",
-      "अपने हृदय की शांति में विश्राम करें।"
+    "th": [
+      "2026-05-05",
+      "06-05-2026"
     ],
-    "ru": [
-      "Излучайте мир и позитив изнутри.",
-      "Теплая улыбка – универсальный язык доброты.",
-      "Покойся в тишине своего сердца."
+    "id": [
+      "05-05-2026",
+      "06-05-2026"
     ],
-    "de": [
-      "Strahlen Sie Frieden und Positivität von innen aus.",
-      "Ein warmes Lächeln ist die universelle Sprache der Freundlichkeit.",
-      "Ruhe in der Stille deines eigenen Herzens."
+    "nl": [
+      "05-05-2026",
+      "06-05-2026"
+    ],
+    "pl": [
+      "2026-05-05",
+      "2026-05-06"
+    ],
+    "uk": [
+      "2026-05-05",
+      "2026-05-06"
+    ],
+    "ta": [
+      "2026-05-05",
+      "2026-05-06"
+    ],
+    "te": [
+      "2026-05-05",
+      "2026-05-06"
+    ],
+    "mr": [
+      "2026-05-05",
+      "2026-05-06"
+    ],
+    "gu": [
+      "2026-05-05",
+      "2026-05-06"
+    ],
+    "kn": [
+      "2026-05-05",
+      "2026-05-06"
+    ],
+    "ml": [
+      "2026-05-05",
+      "2026-05-06"
+    ],
+    "pa": [
+      "2026-05-05",
+      "2026-05-06"
+    ],
+    "fa": [
+      "05-05-2026",
+      "06-05-2026"
+    ],
+    "sw": [
+      "2026-05-05",
+      "2026-05-06"
+    ],
+    "ms": [
+      "05-05-2026",
+      "06-05-2026"
     ]
   }
 }
