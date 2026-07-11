@@ -2,7 +2,11 @@
   "en": {
     "dynamic_texts": {
       "happy_title": "Thank You!",
-      "happy_message": "You’ve made Milo’s day brighter. Carry this joy with you, and let’s share another smile together tomorrow."
+      "happy_message": "You’ve made Milo’s day brighter. Carry this joy with you, and let’s share another smile together tomorrow.",
+      "instruction_text": "Milo smiles when you smile. Please smile for 2 mins to keep Milo happy for the day.",
+      "action_keep_smiling": "Keep smiling",
+      "action_dont_stop": "Don't stop, keep smiling",
+      "action_smile_please": "Smile please"
     },
     "daily_quotes": {
       "2026-05-05": [
@@ -20,7 +24,11 @@
   "hi": {
     "dynamic_texts": {
       "happy_title": "धन्यवाद!",
-      "happy_message": "आपने माइलो का दिन रोशन कर दिया है। इस खुशी को अपने साथ रखें, और कल फिर एक साथ मुस्कुराएं।"
+      "happy_message": "आपने माइलो का दिन रोशन कर दिया है। इस खुशी को अपने साथ रखें, और कल फिर एक साथ मुस्कुराएं।",
+      "instruction_text": "माइलो तब मुस्कुराता है जब आप मुस्कुराते हैं। माइलो को दिन भर खुश रखने के लिए कृपया 2 मिनट तक मुस्कुराएं।",
+      "action_keep_smiling": "मुस्कुराते रहें",
+      "action_dont_stop": "रुकें नहीं, मुस्कुराते रहें",
+      "action_smile_please": "कृपया मुस्कुराएं"
     },
     "daily_quotes": {
       "2026-05-05": [
@@ -38,7 +46,11 @@
   "ru": {
     "dynamic_texts": {
       "happy_title": "Спасибо!",
-      "happy_message": "Вы сделали день Майло ярче. Сохраните эту радость с собой, и давайте снова улыбнемся вместе завтра."
+      "happy_message": "Вы сделали день Майло ярче. Сохраните эту радость с собой, и давайте снова улыбнемся вместе завтра.",
+      "instruction_text": "Майло улыбается, когда вы улыбаетесь. Пожалуйста, улыбайтесь 2 минуты, чтобы Майло был счастлив весь день.",
+      "action_keep_smiling": "Продолжайте улыбаться",
+      "action_dont_stop": "Не останавливайтесь, продолжайте улыбаться",
+      "action_smile_please": "Улыбнитесь, пожалуйста"
     },
     "daily_quotes": {
       "2026-05-05": [
@@ -56,7 +68,11 @@
   "fr": {
     "dynamic_texts": {
       "happy_title": "Merci !",
-      "happy_message": "Vous avez illuminé la journée de Milo. Gardez cette joie avec vous, et partageons un autre sourire ensemble demain."
+      "happy_message": "Vous avez illuminé la journée de Milo. Gardez cette joie avec vous, et partageons un autre sourire ensemble demain.",
+      "instruction_text": "Milo sourit quand vous souriez. Veuillez sourire pendant 2 minutes pour que Milo reste heureux toute la journée.",
+      "action_keep_smiling": "Gardez le sourire",
+      "action_dont_stop": "Ne vous arrêtez pas, gardez le sourire",
+      "action_smile_please": "Souriez s'il vous plaît"
     },
     "daily_quotes": {
       "2026-05-05": [
@@ -74,7 +90,11 @@
   "it": {
     "dynamic_texts": {
       "happy_title": "Grazie!",
-      "happy_message": "Hai reso la giornata di Milo più luminosa. Porta questa gioia con te e condividiamo un altro sorriso insieme domani."
+      "happy_message": "Hai reso la giornata di Milo più luminosa. Porta questa gioia con te e condividiamo un altro sorriso insieme domani.",
+      "instruction_text": "Milo sorride quando tu sorridi. Per favore sorridi per 2 minuti per mantenere Milo felice per tutto il giorno.",
+      "action_keep_smiling": "Continua a sorridere",
+      "action_dont_stop": "Non fermarti, continua a sorridere",
+      "action_smile_please": "Sorridi per favore"
     },
     "daily_quotes": {
       "2026-05-05": [
@@ -92,7 +112,11 @@
   "es": {
     "dynamic_texts": {
       "happy_title": "¡Gracias!",
-      "happy_message": "Has alegrado el día de Milo. Lleva esta alegría contigo y compartamos otra sonrisa juntos mañana."
+      "happy_message": "Has alegrado el día de Milo. Lleva esta alegría contigo y compartamos otra sonrisa juntos mañana.",
+      "instruction_text": "Milo sonríe cuando tú sonríes. Por favor, sonríe durante 2 minutos para mantener a Milo feliz todo el día.",
+      "action_keep_smiling": "Sigue sonriendo",
+      "action_dont_stop": "No pares, sigue sonriendo",
+      "action_smile_please": "Sonríe por favor"
     },
     "daily_quotes": {
       "2026-05-05": [
@@ -110,7 +134,11 @@
   "de": {
     "dynamic_texts": {
       "happy_title": "Danke!",
-      "happy_message": "Du hast Milos Tag heller gemacht. Trage diese Freude mit dir und lass uns morgen wieder ein Lächeln teilen."
+      "happy_message": "Du hast Milos Tag heller gemacht. Trage diese Freude mit dir und lass uns morgen wieder ein Lächeln teilen.",
+      "instruction_text": "Milo lächelt, wenn du lächelst. Bitte lächle 2 Minuten lang, um Milo für den Tag glücklich zu machen.",
+      "action_keep_smiling": "Lächle weiter",
+      "action_dont_stop": "Nicht aufhören, lächle weiter",
+      "action_smile_please": "Bitte lächeln"
     },
     "daily_quotes": {
       "2026-05-05": [
@@ -128,7 +156,11 @@
   "ja": {
     "dynamic_texts": {
       "happy_title": "ありがとう！",
-      "happy_message": "あなたはマイロの一日を明るくしました。この喜びを持ち歩き、明日も一緒に笑顔を分かち合いましょう。"
+      "happy_message": "あなたはマイロの一日を明るくしました。この喜びを持ち歩き、明日も一緒に笑顔を分かち合いましょう。",
+      "instruction_text": "あなたが笑うとマイロも笑います。マイロを一日中ハッピーにするために、2分間笑顔でいてください。",
+      "action_keep_smiling": "笑顔を保って",
+      "action_dont_stop": "止めないで、笑顔を続けて",
+      "action_smile_please": "笑ってください"
     },
     "daily_quotes": {
       "2026-05-05": [
@@ -146,7 +178,11 @@
   "pt": {
     "dynamic_texts": {
       "happy_title": "Obrigado!",
-      "happy_message": "Você tornou o dia do Milo mais brilhante. Leve essa alegria com você e vamos compartilhar outro sorriso juntos amanhã."
+      "happy_message": "Você tornou o dia do Milo mais brilhante. Leve essa alegria com você e vamos compartilhar outro sorriso juntos amanhã.",
+      "instruction_text": "Milo sorri quando você sorri. Por favor, sorria por 2 minutos para manter o Milo feliz pelo resto do dia.",
+      "action_keep_smiling": "Continue sorrindo",
+      "action_dont_stop": "Não pare, continue sorrindo",
+      "action_smile_please": "Sorria, por favor"
     },
     "daily_quotes": {
       "2026-05-05": [
@@ -164,7 +200,11 @@
   "id": {
     "dynamic_texts": {
       "happy_title": "Terima kasih!",
-      "happy_message": "Anda telah membuat hari Milo lebih cerah. Bawa kebahagiaan ini bersama Anda, dan mari berbagi senyum lagi besok."
+      "happy_message": "Anda telah membuat hari Milo lebih cerah. Bawa kebahagiaan ini bersama Anda, dan mari berbagi senyum lagi besok.",
+      "instruction_text": "Milo tersenyum saat Anda tersenyum. Tolong tersenyum selama 2 menit agar Milo bahagia sepanjang hari.",
+      "action_keep_smiling": "Tetaplah tersenyum",
+      "action_dont_stop": "Jangan berhenti, tetaplah tersenyum",
+      "action_smile_please": "Tolong tersenyum"
     },
     "daily_quotes": {
       "2026-05-05": [
