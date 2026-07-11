@@ -1,0 +1,182 @@
+{
+  "en": {
+    "dynamic_texts": {
+      "happy_title": "Thank You!",
+      "happy_message": "You’ve made Milo’s day brighter. Carry this joy with you, and let’s share another smile together tomorrow."
+    },
+    "daily_quotes": {
+      "2026-05-05": [
+        "Smile, breathe, and go slowly.",
+        "Every smile makes you a day younger.",
+        "Peace begins with a smile."
+      ],
+      "2026-05-06": [
+        "Let your smile change the world.",
+        "Joy is not in things; it is in us.",
+        "Keep smiling, because life is a beautiful thing."
+      ]
+    }
+  },
+  "hi": {
+    "dynamic_texts": {
+      "happy_title": "धन्यवाद!",
+      "happy_message": "आपने माइलो का दिन रोशन कर दिया है। इस खुशी को अपने साथ रखें, और कल फिर एक साथ मुस्कुराएं।"
+    },
+    "daily_quotes": {
+      "2026-05-05": [
+        "मुस्कुराओ, सांस लो, और धीरे चलो।",
+        "हर मुस्कान आपको एक दिन जवां बना देती है।",
+        "शांति की शुरुआत एक मुस्कान से होती है।"
+      ],
+      "2026-05-06": [
+        "अपनी मुस्कान से दुनिया को बदल दो।",
+        "खुशी चीजों में नहीं; यह हमारे भीतर है।",
+        "मुस्कुराते रहो, क्योंकि जीवन बहुत खूबसूरत है।"
+      ]
+    }
+  },
+  "ru": {
+    "dynamic_texts": {
+      "happy_title": "Спасибо!",
+      "happy_message": "Вы сделали день Майло ярче. Сохраните эту радость с собой, и давайте снова улыбнемся вместе завтра."
+    },
+    "daily_quotes": {
+      "2026-05-05": [
+        "Улыбнись, дыши и иди медленно.",
+        "Каждая улыбка делает тебя на день моложе.",
+        "Мир начинается с улыбки."
+      ],
+      "2026-05-06": [
+        "Пусть твоя улыбка изменит мир.",
+        "Радость не в вещах, она внутри нас.",
+        "Продолжай улыбаться, ведь жизнь прекрасна."
+      ]
+    }
+  },
+  "fr": {
+    "dynamic_texts": {
+      "happy_title": "Merci !",
+      "happy_message": "Vous avez illuminé la journée de Milo. Gardez cette joie avec vous, et partageons un autre sourire ensemble demain."
+    },
+    "daily_quotes": {
+      "2026-05-05": [
+        "Souriez, respirez et allez doucement.",
+        "Chaque sourire vous rajeunit d'un jour.",
+        "La paix commence par un sourire."
+      ],
+      "2026-05-06": [
+        "Laissez votre sourire changer le monde.",
+        "La joie n'est pas dans les choses ; elle est en nous.",
+        "Gardez le sourire, car la vie est belle."
+      ]
+    }
+  },
+  "it": {
+    "dynamic_texts": {
+      "happy_title": "Grazie!",
+      "happy_message": "Hai reso la giornata di Milo più luminosa. Porta questa gioia con te e condividiamo un altro sorriso insieme domani."
+    },
+    "daily_quotes": {
+      "2026-05-05": [
+        "Sorridi, respira e vai piano.",
+        "Ogni sorriso ti fa ringiovanire di un giorno.",
+        "La peace inizia con un sorriso."
+      ],
+      "2026-05-06": [
+        "Lascia che il tuo sorriso cambi il mondo.",
+        "La gioia non è nelle cose; è in noi.",
+        "Continua a sorridere, perché la vita è una cosa meravigliosa."
+      ]
+    }
+  },
+  "es": {
+    "dynamic_texts": {
+      "happy_title": "¡Gracias!",
+      "happy_message": "Has alegrado el día de Milo. Lleva esta alegría contigo y compartamos otra sonrisa juntos mañana."
+    },
+    "daily_quotes": {
+      "2026-05-05": [
+        "Sonríe, respira y ve despacio.",
+        "Cada sonrisa te hace un día más joven.",
+        "La paz comienza con una sonrisa."
+      ],
+      "2026-05-06": [
+        "Deja que tu sonrisa cambie el mundo.",
+        "La alegría no está en las cosas; está en nosotros.",
+        "Sigue sonriendo, porque la vida es hermosa."
+      ]
+    }
+  },
+  "de": {
+    "dynamic_texts": {
+      "happy_title": "Danke!",
+      "happy_message": "Du hast Milos Tag heller gemacht. Trage diese Freude mit dir und lass uns morgen wieder ein Lächeln teilen."
+    },
+    "daily_quotes": {
+      "2026-05-05": [
+        "Lächle, atme und geh langsam.",
+        "Jedes Lächeln macht dich einen Tag jünger.",
+        "Frieden beginnt mit einem Lächeln."
+      ],
+      "2026-05-06": [
+        "Lass dein Lächeln die Welt verändern.",
+        "Freude ist nicht in Dingen; sie ist in uns.",
+        "Lächle weiter, denn das Leben ist etwas Schönes."
+      ]
+    }
+  },
+  "ja": {
+    "dynamic_texts": {
+      "happy_title": "ありがとう！",
+      "happy_message": "あなたはマイロの一日を明るくしました。この喜びを持ち歩き、明日も一緒に笑顔を分かち合いましょう。"
+    },
+    "daily_quotes": {
+      "2026-05-05": [
+        "笑って、深呼吸して、ゆっくり進もう。",
+        "笑顔の数だけ若返る。",
+        "平和は微笑みから始まる。"
+      ],
+      "2026-05-06": [
+        "あなたの笑顔で世界を変えよう。",
+        "喜びは物の中にあるのではなく、私たちの中にある。",
+        "笑顔を絶やさないで、人生は美しいものだから。"
+      ]
+    }
+  },
+  "pt": {
+    "dynamic_texts": {
+      "happy_title": "Obrigado!",
+      "happy_message": "Você tornou o dia do Milo mais brilhante. Leve essa alegria com você e vamos compartilhar outro sorriso juntos amanhã."
+    },
+    "daily_quotes": {
+      "2026-05-05": [
+        "Sorria, respire e vá devagar.",
+        "Cada sorriso te deixa um dia mais jovem.",
+        "A paz começa com um sorriso."
+      ],
+      "2026-05-06": [
+        "Deixe o seu sorriso mudar o mundo.",
+        "A alegria não está nas coisas; está em nós.",
+        "Continue sorrindo, porque a vida é uma coisa linda."
+      ]
+    }
+  },
+  "id": {
+    "dynamic_texts": {
+      "happy_title": "Terima kasih!",
+      "happy_message": "Anda telah membuat hari Milo lebih cerah. Bawa kebahagiaan ini bersama Anda, dan mari berbagi senyum lagi besok."
+    },
+    "daily_quotes": {
+      "2026-05-05": [
+        "Tersenyumlah, bernapaslah, dan berjalanlah perlahan.",
+        "Setiap senyuman membuat Anda sehari lebih muda.",
+        "Kedamaian dimulai dengan sebuah senyuman."
+      ],
+      "2026-05-06": [
+        "Biarkan senyum Anda mengubah dunia.",
+        "Kebahagiaan bukan pada benda; itu ada di dalam diri kita.",
+        "Tetaplah tersenyum, karena hidup itu indah."
+      ]
+    }
+  }
+}
